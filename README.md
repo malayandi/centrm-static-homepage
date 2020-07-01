@@ -1,0 +1,1 @@
+# centrm-static-homepage
